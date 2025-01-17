@@ -8,6 +8,7 @@ def main():
  
     # add tax to the price
     total = price * 1.13 #since in Ontario
+    #need to add to Quebec
  
     print(f"The total price is {total:.2f}")
 if __name__ == '__main__':
